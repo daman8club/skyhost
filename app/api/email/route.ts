@@ -35,7 +35,7 @@ export async function GET() {
 
     return NextResponse.json({
       campaigns,
-      stats: stats[0] || { total_emails: 0, opened_emails: 0, total_opens: 0 }
+      stats: (stats as any[])[0] || { total_emails: 0, opened_emails: 0, total_opens: 0 }
     })
   } catch (error) {
     console.error('Email analytics error:', error)

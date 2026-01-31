@@ -23,7 +23,7 @@ export default function TestEmailTracking() {
         setResult('❌ Error: ' + data.error)
       }
     } catch (error) {
-      setResult('❌ Error: ' + error.message)
+      setResult('❌ Error: ' + (error instanceof Error ? error.message : 'Unknown error'))
     }
   }
 

@@ -1,4 +1,4 @@
-// File: e:\skyhost\app\api\settings\route.ts
+// File: E:\skyhost\app\api\settings\route.ts
 import * as entry from '../../../../../app/api/settings/route.js'
 import type { NextRequest } from 'next/server.js'
 

@@ -41,7 +41,7 @@ For localhost testing:
         setResult('❌ Error registering email')
       }
     } catch (error) {
-      setResult('❌ Error: ' + error.message)
+      setResult('❌ Error: ' + (error instanceof Error ? error.message : 'Unknown error'))
     }
   }
 

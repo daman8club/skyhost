@@ -1,0 +1,21 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[444],{8291:function(t,e,i){"use strict";i.r(e),i.d(e,{default:function(){return n}});/**
+ * @license lucide-react v0.294.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */let n=(0,i(2898).default)("ArrowRight",[["path",{d:"M5 12h14",key:"1ays0h"}],["path",{d:"m12 5 7 7-7 7",key:"xquz4c"}]])},8956:function(t,e,i){"use strict";i.r(e),i.d(e,{default:function(){return n}});/**
+ * @license lucide-react v0.294.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */let n=(0,i(2898).default)("Globe",[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20",key:"13o1zl"}],["path",{d:"M2 12h20",key:"9i4pu4"}]])},1271:function(t,e,i){"use strict";i.r(e),i.d(e,{default:function(){return n}});/**
+ * @license lucide-react v0.294.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */let n=(0,i(2898).default)("Smartphone",[["rect",{width:"14",height:"20",x:"5",y:"2",rx:"2",ry:"2",key:"1yt0o3"}],["path",{d:"M12 18h.01",key:"mhygvu"}]])},5790:function(t,e,i){"use strict";i.r(e),i.d(e,{default:function(){return n}});/**
+ * @license lucide-react v0.294.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */let n=(0,i(2898).default)("TrendingUp",[["polyline",{points:"22 7 13.5 15.5 8.5 10.5 2 17",key:"126l90"}],["polyline",{points:"16 7 22 7 22 13",key:"kwv8wd"}]])},9610:function(t,e,i){Promise.resolve().then(i.bind(i,4816))},4816:function(t,e,i){"use strict";i.r(e),i.d(e,{default:function(){return d}});var n=i(7437),s=i(732),a=i(1396),r=i.n(a),o=i(8956),l=i(1271),c=i(5790),u=i(8291);function d(){let t=[{title:"Websites",description:"Lightning-fast, responsive websites that convert visitors into customers",icon:o.default,link:"/portfolio/websites",count:"50+ Projects"},{title:"Mobile Apps",description:"Native and cross-platform mobile applications with exceptional UX",icon:l.default,link:"/portfolio/mobile-apps",count:"25+ Apps"},{title:"SEO Results",description:"Proven SEO strategies that drive organic traffic and rankings",icon:c.default,link:"/portfolio/seo-results",count:"100+ Campaigns"}];return(0,n.jsx)("div",{className:"min-h-screen bg-gradient-to-br from-gray-900 via-blue-900 to-gray-900 text-white",children:(0,n.jsxs)("div",{className:"max-w-7xl mx-auto px-6 py-20",children:[(0,n.jsxs)(s.motion.div,{initial:{opacity:0,y:20},animate:{opacity:1,y:0},className:"text-center mb-20",children:[(0,n.jsx)("h1",{className:"text-6xl font-black text-white mb-6",children:"Our Portfolio"}),(0,n.jsx)("p",{className:"text-xl text-gray-300 max-w-3xl mx-auto",children:"Explore our work across websites, mobile apps, and digital marketing campaigns that have driven real results for NYC businesses."})]}),(0,n.jsx)("div",{className:"grid grid-cols-1 md:grid-cols-3 gap-8",children:t.map((t,e)=>(0,n.jsxs)(s.motion.div,{initial:{opacity:0,y:30},animate:{opacity:1,y:0},transition:{delay:.1*e},className:"glass-card p-8 text-center group hover:bg-white/10 transition-all duration-300",children:[(0,n.jsx)("div",{className:"w-20 h-20 bg-blue-500/20 rounded-2xl flex items-center justify-center mx-auto mb-6 group-hover:bg-blue-500/30 transition-colors",children:(0,n.jsx)(t.icon,{className:"w-10 h-10 text-blue-400"})}),(0,n.jsx)("h3",{className:"text-2xl font-bold mb-4",children:t.title}),(0,n.jsx)("p",{className:"text-gray-300 mb-6",children:t.description}),(0,n.jsx)("div",{className:"text-cyan-400 font-semibold mb-6",children:t.count}),(0,n.jsxs)(r(),{href:t.link,className:"btn-neon-primary group",children:["View Projects",(0,n.jsx)(u.default,{className:"ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform"})]})]},e))})]})})}}},function(t){t.O(0,[206,396,971,938,744],function(){return t(t.s=9610)}),_N_E=t.O()}]);

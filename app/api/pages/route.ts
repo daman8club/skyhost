@@ -12,7 +12,7 @@ export async function GET(request: NextRequest) {
     
     if (pageUrl) {
       const [rows] = await db.execute('SELECT * FROM page_content WHERE page_url = ?', [pageUrl])
-      return NextResponse.json({ page: rows[0] || null })
+      return NextResponse.json({ page: (rows as any[])[0] || null })
     }
     
     const [pages] = await db.execute('SELECT * FROM page_content ORDER BY page_url')
