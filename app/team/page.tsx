@@ -6,51 +6,51 @@ import { Linkedin, Twitter, Github, Mail } from 'lucide-react'
 export default function Team() {
   const team = [
     {
-      name: 'Alex Rodriguez',
+      name: 'Asharam Meena',
       role: 'Founder & CEO',
-      image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face',
-      bio: 'Visionary leader with 10+ years in digital transformation. Former Google engineer turned entrepreneur.',
+      image: 'public/asharam.png',
+      bio: 'Visionary leader with 5+ years in digital transformation.',
       social: {
-        linkedin: '#',
+        linkedin: 'https://in.linkedin.com/in/skyhost-digital-solutions',
         twitter: '#',
         github: '#',
-        email: 'alex@skyhostdigital.com'
+        email: 'ashu@skyhost.agency'
       }
     },
     {
-      name: 'Sarah Chen',
+      name: 'Mukesh Kumar',
       role: 'Lead Developer',
-      image: 'https://images.unsplash.com/photo-1494790108755-2616b612b786?w=400&h=400&fit=crop&crop=face',
+      image: 'public/mukesh.png',
       bio: 'Full-stack wizard specializing in Next.js and performance optimization. Built 200+ lightning-fast websites.',
       social: {
         linkedin: '#',
         twitter: '#',
         github: '#',
-        email: 'sarah@skyhostdigital.com'
+        email: 'mukesh@skyhost.agency'
       }
     },
     {
-      name: 'Marcus Johnson',
+      name: 'Rajesh',
       role: 'UI/UX Designer',
-      image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face',
+      image: 'public/rajesh.png',
       bio: 'Creative genius who turns complex ideas into beautiful, intuitive interfaces. Award-winning designer.',
       social: {
         linkedin: '#',
         twitter: '#',
         github: '#',
-        email: 'marcus@skyhostdigital.com'
+        email: 'rajesh@skyhost.agency'
       }
     },
     {
-      name: 'Emily Watson',
+      name: 'Khusbhu Verma',
       role: 'Growth Strategist',
-      image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop&crop=face',
+      image: 'public/khusbhu.jpg',
       bio: 'Data-driven marketer who has helped clients achieve 500%+ growth. SEO and conversion expert.',
       social: {
         linkedin: '#',
         twitter: '#',
         github: '#',
-        email: 'emily@skyhostdigital.com'
+        email: 'khusbhu@skyhost.agency'
       }
     }
   ]
