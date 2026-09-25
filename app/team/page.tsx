@@ -8,7 +8,7 @@ export default function Team() {
     {
       name: 'Asharam Meena',
       role: 'Founder & CEO',
-      image: 'public/asharam.png',
+      image: '/asharam.png',
       bio: 'Visionary leader with 5+ years in digital transformation.',
       social: {
         linkedin: 'https://in.linkedin.com/in/skyhost-digital-solutions',
@@ -20,7 +20,7 @@ export default function Team() {
     {
       name: 'Mukesh Kumar',
       role: 'Lead Developer',
-      image: 'public/mukesh.png',
+      image: '/mukesh.png',
       bio: 'Full-stack wizard specializing in Next.js and performance optimization. Built 200+ lightning-fast websites.',
       social: {
         linkedin: '#',
@@ -32,7 +32,7 @@ export default function Team() {
     {
       name: 'Rajesh',
       role: 'UI/UX Designer',
-      image: 'public/rajesh.png',
+      image: '/rajesh.png',
       bio: 'Creative genius who turns complex ideas into beautiful, intuitive interfaces. Award-winning designer.',
       social: {
         linkedin: '#',
@@ -44,7 +44,7 @@ export default function Team() {
     {
       name: 'Khusbhu Verma',
       role: 'Growth Strategist',
-      image: 'public/khusbhu.jpg',
+      image: '/khusbhu.jpg',
       bio: 'Data-driven marketer who has helped clients achieve 500%+ growth. SEO and conversion expert.',
       social: {
         linkedin: '#',
